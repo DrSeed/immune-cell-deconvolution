@@ -1,0 +1,7 @@
+cell_type,true,estimated
+T CD8,0.096,0.082
+T CD4,0.183,0.181
+B cell,0.062,0.067
+NK,0.106,0.119
+Macrophage,0.350,0.351
+Neutrophil,0.202,0.200
